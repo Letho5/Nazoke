@@ -1,0 +1,7 @@
+{
+  "name": "Copy of ResumeAI Pro",
+  "description": "An elite AI-powered resume builder that creates professional, ATS-optimized resumes through natural conversation or structured forms.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
